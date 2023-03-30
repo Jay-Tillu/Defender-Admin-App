@@ -26,27 +26,26 @@ Admin Panel For Defender Security App.
  
 </p>
 
-
+<p float="left">
+  <a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin"> <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/getit.png?raw=true" width="200" /></a>
+</p>
 
 [![alt text](https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/getit.png?raw=true "Check it on Google Play")
 ](https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin)
 
-
-
-
 ## Plugins
 
-* cupertino_icons: ^1.0.0
-* firebase_core: ^0.7.0
-*  cloud_firestore: ^0.16.0
-*  firebase_auth: ^0.20.0+1
-*  firebase_storage: ^7.0.0
-*  flutter_statusbarcolor: ^0.2.3
-*  font_awesome_flutter: ^8.11.0
-*  modal_progress_hud: ^0.1.3
-*  colorful_safe_area: ^0.2.1
-*  webview_flutter: ^1.0.7
-*  flutter_initicon: ^1.0.3
+- cupertino_icons: ^1.0.0
+- firebase_core: ^0.7.0
+- cloud_firestore: ^0.16.0
+- firebase_auth: ^0.20.0+1
+- firebase_storage: ^7.0.0
+- flutter_statusbarcolor: ^0.2.3
+- font_awesome_flutter: ^8.11.0
+- modal_progress_hud: ^0.1.3
+- colorful_safe_area: ^0.2.1
+- webview_flutter: ^1.0.7
+- flutter_initicon: ^1.0.3
 
 ## Technologies
 
