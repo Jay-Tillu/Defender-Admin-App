@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/logo.png?raw=true" alt="Defender Admin App Logo" width="120" height="120">
+    <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/logo.png?raw=true" alt="Defender Admin App Logo" width="120" height="120">
   </a>
 </p>
 
@@ -18,17 +18,17 @@ Admin Panel For Defender Security App.
 ## Screenshots
 
 <p float="middle">
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/adminleft.jpg?raw=true" width="200" />
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/adminright.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/admin1.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/admin2.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/master/assets/images/admin3.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/adminleft.jpg?raw=true" width="200" />
+  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/adminright.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin1.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin2.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin3.jpg?raw=true" width="200" /> 
  
 </p>
 
 
 
-[![alt text](https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getitimage.png?raw=true "Check it on Google Play")
+[![alt text](https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/getit.png?raw=true "Check it on Google Play")
 ](https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin)
 
 
